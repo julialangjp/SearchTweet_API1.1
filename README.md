@@ -20,7 +20,7 @@ Pkg.add("TimeZones")
 
 ### コンソールで実行
 ```julia
-> juliasearchtweet1.jl
+> julia searchtweet1.jl
 ```
 
 ### 結果出力
